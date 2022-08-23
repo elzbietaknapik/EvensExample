@@ -1,0 +1,7 @@
+C:\Users\adamk\source\repos\RefFunction\RefFunction\bin\Debug\RefFunction.exe.config
+C:\Users\adamk\source\repos\RefFunction\RefFunction\bin\Debug\RefFunction.exe
+C:\Users\adamk\source\repos\RefFunction\RefFunction\bin\Debug\RefFunction.pdb
+C:\Users\adamk\source\repos\RefFunction\RefFunction\obj\Debug\RefFunction.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\RefFunction\RefFunction\obj\Debug\RefFunction.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\RefFunction\RefFunction\obj\Debug\RefFunction.exe
+C:\Users\adamk\source\repos\RefFunction\RefFunction\obj\Debug\RefFunction.pdb
